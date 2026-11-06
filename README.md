@@ -249,9 +249,9 @@ information.
 ``` text
 Solar-Wind-Biomass-Energy-Analysis/
 │
-├── Solar_Wind_Biomass_Energy_Analysis.ipynb
-├── SORCE FILE.csv
-├── Solar_Wind_Biomass_Energy_Efficiency_Project_Documentation.pdf
+├── 01_Solar_Wind_Biomass_Energy_Analysis.ipynb
+├── 02_SORCE_FILE.csv
+├── 03_Project_Documentation.pdf
 └── README.md
 ```
 
